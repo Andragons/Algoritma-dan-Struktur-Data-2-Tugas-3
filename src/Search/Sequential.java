@@ -14,6 +14,7 @@ import java.util.Scanner;
 public class Sequential {
     
     public static void main(String[] args) {
+         System.out.println("========== Sequential Search ==========");
         String A[] = {"Galileo", "Archimedes", "Alkhawarizmi", "Aljabar", "Ramanda", "Tesla"};
         String cari;
         Scanner scan = new Scanner(System.in);

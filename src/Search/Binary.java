@@ -14,6 +14,7 @@ import java.util.Scanner;
 public class Binary {
     
     public static void main(String[] args) {
+        System.out.println("========== Binary Search ==========");
         Scanner scan = new Scanner(System.in);
         int data[] = {2, 4, 6, 8, 10, 12, 14, 16, 18, 20};
         int cari;
